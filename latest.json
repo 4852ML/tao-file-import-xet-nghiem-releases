@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "product": "Tao_file_import_xet_nghiem",
+  "channel": "stable",
+  "enabled": false,
+  "version": "15.12.0",
+  "published_at": null,
+  "download_url": null,
+  "sha256": null,
+  "signature": null,
+  "release_notes": "Update channel initialized. No automatic update is currently published.",
+  "publisher": "Lê Minh Nhật",
+  "organization": "OPC Trạm Y tế phường Tân Định"
+}
