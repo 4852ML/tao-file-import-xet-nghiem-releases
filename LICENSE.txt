@@ -1,0 +1,17 @@
+Copyright (c) 2026 Lê Minh Nhật — OPC Trạm Y tế phường Tân Định.
+All rights reserved.
+
+This repository is an official distribution channel for the application
+“Tạo file import xét nghiệm”.
+
+Permission is granted to clinic staff and other authorized users to download,
+run, and share an unmodified official executable for its intended clinical
+administrative workflow.
+
+No permission is granted to modify, rebrand, falsely claim ownership of,
+resell, or distribute altered copies of the application or its update files.
+
+Third-party components bundled with the application remain subject to their
+respective licenses. This notice applies to the original application,
+release metadata, branding, documentation, and distribution files owned by
+the publisher.
